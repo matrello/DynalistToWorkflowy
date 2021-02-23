@@ -2,10 +2,11 @@
 
 ## Usage
 
-Put your `.opml` file from Dynalist into the main directory of the repo and name it `Main.opml`.
+Put your `.opml` files from Dynalist into the opmlDynalist folder of the repo.
 
 Run `. ./run.sh` from a shell and it will startup everything for you 😁
 
+Find your converted `.opml` files in the opmlWorkflowy folder of the repo.
 ## Dev Setup
 
 You can install new dependencies with the following:
